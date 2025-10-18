@@ -55,9 +55,4 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Chinguun19.Chinguun19&"  />
-</div>
-
 ###
